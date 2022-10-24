@@ -36,7 +36,7 @@ function App() {
   }
   return (
     <main>
-      <Tours />
+      <Tours tours={tours}/>
     </main>
   )
   return <h2>Tours Project Setup</h2>
